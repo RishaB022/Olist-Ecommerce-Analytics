@@ -59,7 +59,7 @@ The goal is to identify **high-value customer groups** and uncover actionable in
 ## ✨ Author
 **Risha Bhatt**  
 M.Sc. Analytics, TISS Mumbai  
-📧 risha.analytics@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/risha-analytics/)
+📧 m2024anlt022@stud.tiss.ac.in
+💼 www.linkedin.com/in/rishabhatt14
 
 
